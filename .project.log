@@ -1,0 +1,390 @@
+[2019-02-24 15:49:42.3560] - INFO - Reading from /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx (origin); preserving existing contents of project folder: true
+[2019-02-24 15:49:42.4210] - INFO - Done reading
+[2019-02-24 15:49:42.4220] - INFO - Marking changed: false
+[2019-02-24 15:49:45.5440] - INFO - GET 200 /design/document.json 0 B (21ms)
+[2019-02-24 15:50:05.8230] - WARNING - Project might be incompatible with this Framer X version (0.10.6 is not listed as compatible version in "^0.9.7")
+
+Try selecting the Built-In Framer Library version from the File menu.
+[2019-02-24 15:50:07.1390] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (41ms)
+[2019-02-24 15:50:09.3910] - WARNING - "@framer/ruucm.html-video#react@^16.3.0" doesn't satisfy found match of "react@15.5.4"
+[2019-02-24 15:50:09.3910] - WARNING - "@framer/ruucm.html-video#react-dom@^16.3.0" doesn't satisfy found match of "react-dom@15.5.4"
+[2019-02-24 15:50:09.3910] - WARNING - "@framer/ruucm.ruucm-fonts#react@^16.3.0" doesn't satisfy found match of "react@15.5.4"
+[2019-02-24 15:50:09.3910] - WARNING - "@framer/ruucm.ruucm-fonts#react-dom@^16.3.0" doesn't satisfy found match of "react-dom@15.5.4"
+[2019-02-24 15:50:09.3910] - WARNING - "styled-components#react@>= 16.3.0" doesn't satisfy found match of "react@15.5.4"
+[2019-02-24 15:50:09.3910] - WARNING - "styled-components#react-dom@>= 16.3.0" doesn't satisfy found match of "react-dom@15.5.4"
+[2019-02-24 15:50:09.3910] - WARNING - "framer#react@^16.3" doesn't satisfy found match of "react@15.5.4"
+[2019-02-24 15:50:09.3910] - WARNING - "framer#react-dom@^16.3" doesn't satisfy found match of "react-dom@15.5.4"
+[2019-02-24 15:50:43.2760] - INFO - Backing up to /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.backups/2019-02-24 15.50.43.zip
+[2019-02-24 15:53:10.6420] - INFO - GET 200 /preview/ 0 B (2ms)
+[2019-02-24 15:53:10.6880] - INFO - GET 200 /preview/styles/style.css 0 B (5ms)
+[2019-02-24 15:53:10.6880] - INFO - GET 200 /preview/styles/Draft.css 0 B (5ms)
+[2019-02-24 15:53:10.6880] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (5ms)
+[2019-02-24 15:53:10.7150] - INFO - GET 200 /preview/preview.js 0 B (7ms)
+[2019-02-24 15:53:10.7570] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (5ms)
+[2019-02-24 15:53:10.8380] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (9ms)
+[2019-02-24 15:53:11.2090] - INFO - GET 404 /favicon.ico 150 B (18ms)
+[2019-02-24 15:53:12.0970] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (5ms)
+[2019-02-24 15:53:12.1020] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (6ms)
+[2019-02-24 15:53:12.1020] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (5ms)
+[2019-02-24 15:53:12.1020] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (5ms)
+[2019-02-24 15:53:12.1110] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (4ms)
+[2019-02-24 15:53:12.1160] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (3ms)
+[2019-02-24 15:53:12.1160] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (7ms)
+[2019-02-24 15:53:12.1240] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (7ms)
+[2019-02-24 15:53:12.1310] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (8ms)
+[2019-02-24 15:53:12.3510] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (4ms)
+[2019-02-24 15:53:14.3170] - INFO - GET 200 /preview/images/cursors/touch-active@2x.png 7.79 kB (1ms)
+[2019-02-24 15:53:19.2960] - INFO - GET 200 /preview/styles/Draft.css 0 B (3ms)
+[2019-02-24 15:53:19.2970] - INFO - GET 200 /preview/styles/style.css 0 B (3ms)
+[2019-02-24 15:53:19.2970] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (2ms)
+[2019-02-24 15:53:21.5040] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (8ms)
+[2019-02-24 15:53:21.5100] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (8ms)
+[2019-02-24 15:53:21.5100] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (8ms)
+[2019-02-24 15:53:21.5180] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (8ms)
+[2019-02-24 15:53:21.5290] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (5ms)
+[2019-02-24 15:53:21.5390] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (7ms)
+[2019-02-24 15:53:21.7780] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (7ms)
+[2019-02-24 15:53:22.1830] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (5ms)
+[2019-02-24 15:53:22.1900] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (8ms)
+[2019-02-24 15:53:44.1640] - INFO - GET 200 /preview/ 0 B (3ms)
+[2019-02-24 15:53:45.4040] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (8ms)
+[2019-02-24 15:53:45.4140] - INFO - GET 200 /preview/styles/style.css 0 B (11ms)
+[2019-02-24 15:53:45.4150] - INFO - GET 200 /preview/styles/Draft.css 0 B (12ms)
+[2019-02-24 15:53:45.4510] - INFO - GET 200 /preview/preview.js 0 B (4ms)
+[2019-02-24 15:53:45.4560] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (5ms)
+[2019-02-24 15:53:47.5070] - INFO - Backing up to /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.backups/2019-02-24 15.53.47.zip
+[2019-02-24 15:53:48.4440] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (10ms)
+[2019-02-24 15:53:48.4450] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (2ms)
+[2019-02-24 15:53:50.0010] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (1ms)
+[2019-02-24 15:53:50.0200] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (2ms)
+[2019-02-24 15:53:50.0250] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (2ms)
+[2019-02-24 15:53:50.0260] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (3ms)
+[2019-02-24 15:53:50.0280] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (4ms)
+[2019-02-24 15:53:50.0360] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (2ms)
+[2019-02-24 15:53:50.0380] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (2ms)
+[2019-02-24 15:53:50.0440] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (2ms)
+[2019-02-24 15:53:50.0710] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (1ms)
+[2019-02-24 15:53:50.3260] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (2ms)
+[2019-02-24 15:54:17.5330] - INFO - GET 200 /preview/ 0 B (8ms)
+[2019-02-24 15:54:17.6940] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (8ms)
+[2019-02-24 15:54:17.7290] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (6ms)
+[2019-02-24 15:54:17.7450] - INFO - GET 200 /preview/styles/Draft.css 0 B (2ms)
+[2019-02-24 15:54:17.7460] - INFO - GET 200 /preview/styles/style.css 0 B (2ms)
+[2019-02-24 15:54:17.7550] - INFO - GET 200 /preview/preview.js 0 B (2ms)
+[2019-02-24 15:54:17.7810] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (5ms)
+[2019-02-24 15:54:18.8620] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2019-02-24 15:54:26.0760] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (4ms)
+[2019-02-24 15:54:26.0960] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (4ms)
+[2019-02-24 15:54:26.0970] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (2ms)
+[2019-02-24 15:54:26.0970] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (2ms)
+[2019-02-24 15:54:26.0970] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (4ms)
+[2019-02-24 15:54:26.0970] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (1ms)
+[2019-02-24 15:54:26.0970] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (1ms)
+[2019-02-24 15:54:26.0970] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (3ms)
+[2019-02-24 15:54:26.0970] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (2ms)
+[2019-02-24 15:54:26.0970] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (2ms)
+[2019-02-24 15:54:49.4810] - INFO - Backing up to /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.backups/2019-02-24 15.54.49.zip
+[2019-02-24 15:55:18.9480] - INFO - GET 200 /preview/ 0 B (3ms)
+[2019-02-24 15:55:19.4210] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (1ms)
+[2019-02-24 15:55:19.4880] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (1ms)
+[2019-02-24 15:55:19.5540] - INFO - GET 200 /preview/styles/Draft.css 0 B (5ms)
+[2019-02-24 15:55:19.6100] - INFO - GET 200 /preview/styles/style.css 0 B (2ms)
+[2019-02-24 15:55:19.6390] - INFO - GET 200 /preview/preview.js 0 B (3ms)
+[2019-02-24 15:55:19.7080] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (4ms)
+[2019-02-24 15:55:20.6440] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2019-02-24 15:55:22.1990] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (3ms)
+[2019-02-24 15:55:22.2080] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (3ms)
+[2019-02-24 15:55:22.2130] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (3ms)
+[2019-02-24 15:55:22.2150] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (5ms)
+[2019-02-24 15:55:22.2170] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (3ms)
+[2019-02-24 15:55:22.2260] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (4ms)
+[2019-02-24 15:55:22.2290] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (2ms)
+[2019-02-24 15:55:22.2300] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (3ms)
+[2019-02-24 15:55:22.2470] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (1ms)
+[2019-02-24 15:55:22.5120] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (3ms)
+[2019-02-24 15:55:37.3000] - INFO - GET 200 /node_modules/@framer/ruucm.ruucm-fonts/metadata/icon.png 1.85 kB (5ms)
+[2019-02-24 15:55:37.3020] - INFO - GET 200 /node_modules/@framer/ruucm.html-video/metadata/icon.png 1.85 kB (4ms)
+[2019-02-24 15:55:52.1260] - INFO - Backing up to /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.backups/2019-02-24 15.55.52.zip
+[2019-02-24 15:56:03.0830] - WARNING - Project might be incompatible with this Framer X version (0.10.6 is not listed as compatible version in "^0.9.7")
+
+Try selecting the Built-In Framer Library version from the File menu.
+[2019-02-24 15:56:09.8000] - WARNING - Project might be incompatible with this Framer X version (0.10.6 is not listed as compatible version in "^0.9.7")
+
+Try selecting the Built-In Framer Library version from the File menu.
+[2019-02-24 15:56:12.1470] - WARNING - Project might be incompatible with this Framer X version (0.10.6 is not listed as compatible version in "^0.9.7")
+
+Try selecting the Built-In Framer Library version from the File menu.
+[2019-02-24 15:56:13.5110] - WARNING - Project might be incompatible with this Framer X version (0.10.6 is not listed as compatible version in "^0.9.7")
+
+Try selecting the Built-In Framer Library version from the File menu.
+[2019-02-24 15:57:31.0570] - INFO - GET 200 /preview/ 0 B (4ms)
+[2019-02-24 15:57:31.5990] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (3ms)
+[2019-02-24 15:57:31.6170] - INFO - GET 200 /preview/styles/Draft.css 0 B (1ms)
+[2019-02-24 15:57:31.6210] - INFO - GET 200 /preview/styles/style.css 0 B (3ms)
+[2019-02-24 15:57:31.6440] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (3ms)
+[2019-02-24 15:57:31.7290] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (2ms)
+[2019-02-24 15:57:31.8020] - INFO - GET 200 /preview/preview.js 0 B (4ms)
+[2019-02-24 15:57:34.4940] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2019-02-24 15:57:36.7160] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (4ms)
+[2019-02-24 15:57:36.7180] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (6ms)
+[2019-02-24 15:57:36.7200] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (4ms)
+[2019-02-24 15:57:36.7210] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (7ms)
+[2019-02-24 15:57:36.7230] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (5ms)
+[2019-02-24 15:57:36.7320] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (3ms)
+[2019-02-24 15:57:36.7380] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (5ms)
+[2019-02-24 15:57:36.7410] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (4ms)
+[2019-02-24 15:57:36.7700] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (1ms)
+[2019-02-24 15:57:37.0450] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (4ms)
+[2019-02-24 15:57:54.1080] - INFO - Backing up to /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.backups/2019-02-24 15.57.54.zip
+[2019-02-24 15:58:38.7840] - INFO - GET 200 /preview/ 0 B (4ms)
+[2019-02-24 15:58:39.0830] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (2ms)
+[2019-02-24 15:58:39.0910] - INFO - GET 200 /preview/styles/Draft.css 0 B (2ms)
+[2019-02-24 15:58:39.0950] - INFO - GET 200 /preview/styles/style.css 0 B (3ms)
+[2019-02-24 15:58:39.1260] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (2ms)
+[2019-02-24 15:58:39.1730] - INFO - GET 200 /preview/preview.js 0 B (1ms)
+[2019-02-24 15:58:39.1730] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (2ms)
+[2019-02-24 15:58:39.8220] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (3ms)
+[2019-02-24 15:58:41.1990] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (7ms)
+[2019-02-24 15:58:41.2020] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (7ms)
+[2019-02-24 15:58:41.2050] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (5ms)
+[2019-02-24 15:58:41.2080] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (16ms)
+[2019-02-24 15:58:41.2140] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (6ms)
+[2019-02-24 15:58:41.2240] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (5ms)
+[2019-02-24 15:58:41.2310] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (5ms)
+[2019-02-24 15:58:41.2350] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (6ms)
+[2019-02-24 15:58:41.2350] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (6ms)
+[2019-02-24 15:58:41.4880] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (7ms)
+[2019-02-24 15:58:47.1810] - INFO - GET 200 /preview/images/cursors/touch-active@2x.png 7.79 kB (1ms)
+[2019-02-24 15:58:55.1430] - INFO - Backing up to /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.backups/2019-02-24 15.58.55.zip
+[2019-02-24 15:59:27.1240] - INFO - GET 200 /preview/ 0 B (2ms)
+[2019-02-24 15:59:27.1320] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (1ms)
+[2019-02-24 15:59:27.1320] - INFO - GET 200 /preview/styles/Draft.css 0 B (2ms)
+[2019-02-24 15:59:27.1320] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (2ms)
+[2019-02-24 15:59:27.1320] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (2ms)
+[2019-02-24 15:59:28.2390] - INFO - GET 200 /preview/styles/style.css 0 B (41ms)
+[2019-02-24 15:59:28.3570] - INFO - GET 200 /preview/preview.js 0 B (30ms)
+[2019-02-24 15:59:30.8440] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (4ms)
+[2019-02-24 15:59:35.6410] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (1ms)
+[2019-02-24 15:59:35.6560] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (2ms)
+[2019-02-24 15:59:35.6620] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (2ms)
+[2019-02-24 15:59:35.6710] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (1ms)
+[2019-02-24 15:59:35.6780] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (3ms)
+[2019-02-24 15:59:35.6810] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (2ms)
+[2019-02-24 15:59:35.6850] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (3ms)
+[2019-02-24 15:59:35.6950] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (2ms)
+[2019-02-24 15:59:36.4460] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (1ms)
+[2019-02-24 15:59:36.4730] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (1ms)
+[2019-02-24 15:59:56.3490] - INFO - GET 200 /preview/ 0 B (2ms)
+[2019-02-24 15:59:56.3490] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (2ms)
+[2019-02-24 15:59:56.3490] - INFO - GET 200 /preview/styles/Draft.css 0 B (2ms)
+[2019-02-24 15:59:56.3490] - INFO - GET 200 /preview/styles/style.css 0 B (6ms)
+[2019-02-24 15:59:56.3490] - INFO - GET 200 /preview/preview.js 0 B (2ms)
+[2019-02-24 15:59:56.3500] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (1ms)
+[2019-02-24 15:59:56.3500] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (2ms)
+[2019-02-24 15:59:56.3500] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2019-02-24 15:59:57.9240] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (5ms)
+[2019-02-24 15:59:57.9250] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (1ms)
+[2019-02-24 15:59:57.9250] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (3ms)
+[2019-02-24 15:59:57.9260] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (2ms)
+[2019-02-24 15:59:57.9260] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (3ms)
+[2019-02-24 15:59:57.9260] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (1ms)
+[2019-02-24 15:59:57.9260] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (2ms)
+[2019-02-24 15:59:57.9260] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (3ms)
+[2019-02-24 15:59:57.9260] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (1ms)
+[2019-02-24 15:59:57.9260] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (8ms)
+[2019-02-24 15:59:58.8230] - INFO - Backing up to /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.backups/2019-02-24 15.59.58.zip
+[2019-02-24 16:00:14.2410] - INFO - GET 200 /preview/images/cursors/touch-active@2x.png 7.79 kB (1ms)
+[2019-02-24 16:02:46.1420] - INFO - GET 200 /preview/ 0 B (2ms)
+[2019-02-24 16:02:49.3360] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (2ms)
+[2019-02-24 16:02:49.3380] - INFO - GET 200 /preview/styles/Draft.css 0 B (2ms)
+[2019-02-24 16:02:49.3380] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (1ms)
+[2019-02-24 16:02:49.3380] - INFO - GET 200 /preview/styles/style.css 0 B (2ms)
+[2019-02-24 16:02:49.3380] - INFO - GET 200 /preview/preview.js 0 B (3ms)
+[2019-02-24 16:02:49.3380] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (2ms)
+[2019-02-24 16:02:49.3380] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2019-02-24 16:02:51.7300] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (6ms)
+[2019-02-24 16:02:51.7300] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (3ms)
+[2019-02-24 16:02:51.7300] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (3ms)
+[2019-02-24 16:02:51.7300] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (4ms)
+[2019-02-24 16:02:51.7300] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (3ms)
+[2019-02-24 16:02:51.7300] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (4ms)
+[2019-02-24 16:02:51.7300] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (3ms)
+[2019-02-24 16:02:51.7300] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (5ms)
+[2019-02-24 16:02:51.7300] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (1ms)
+[2019-02-24 16:02:51.9920] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (6ms)
+[2019-02-24 16:03:08.8780] - INFO - GET 200 /preview/ 0 B (3ms)
+[2019-02-24 16:03:09.0280] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (5ms)
+[2019-02-24 16:03:09.0720] - INFO - GET 200 /preview/styles/Draft.css 0 B (3ms)
+[2019-02-24 16:03:09.0750] - INFO - GET 200 /preview/styles/style.css 0 B (3ms)
+[2019-02-24 16:03:09.0860] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (2ms)
+[2019-02-24 16:03:09.0910] - INFO - GET 200 /preview/preview.js 0 B (4ms)
+[2019-02-24 16:03:09.1860] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (2ms)
+[2019-02-24 16:03:09.9370] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2019-02-24 16:03:11.7310] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (2ms)
+[2019-02-24 16:03:11.7410] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (6ms)
+[2019-02-24 16:03:11.7440] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (4ms)
+[2019-02-24 16:03:11.7540] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (3ms)
+[2019-02-24 16:03:11.7570] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (3ms)
+[2019-02-24 16:03:11.7680] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (5ms)
+[2019-02-24 16:03:11.7710] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (6ms)
+[2019-02-24 16:03:11.7720] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (2ms)
+[2019-02-24 16:03:11.7850] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (1ms)
+[2019-02-24 16:03:12.0350] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (1ms)
+[2019-02-24 16:03:22.3970] - INFO - Backing up to /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.backups/2019-02-24 16.03.22.zip
+[2019-02-24 16:04:01.1200] - INFO - Reading from /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx (origin); preserving existing contents of project folder: true
+[2019-02-24 16:04:01.2730] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “qtZX2FT5hRkE0S29d5LXG02Fk.jpg” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/512/qtZX2FT5hRkE0S29d5LXG02Fk.jpg, NSUnderlyingError=0x6000028db1e0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2740] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “qtZX2FT5hRkE0S29d5LXG02Fk.jpg” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/1024/qtZX2FT5hRkE0S29d5LXG02Fk.jpg, NSUnderlyingError=0x6000028db3c0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2740] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “qtZX2FT5hRkE0S29d5LXG02Fk.jpg” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/2048/qtZX2FT5hRkE0S29d5LXG02Fk.jpg, NSUnderlyingError=0x6000028db5a0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2740] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “qtZX2FT5hRkE0S29d5LXG02Fk.jpg” couldn’t be saved in the folder “4096” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/4096/qtZX2FT5hRkE0S29d5LXG02Fk.jpg, NSUnderlyingError=0x6000028dbbd0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2750] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “1MkIQD7mgiTUour9YxA1x0ivU.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/512/1MkIQD7mgiTUour9YxA1x0ivU.png, NSUnderlyingError=0x6000028dbd80 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2750] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “1MkIQD7mgiTUour9YxA1x0ivU.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/1024/1MkIQD7mgiTUour9YxA1x0ivU.png, NSUnderlyingError=0x6000028deb20 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2750] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “1MkIQD7mgiTUour9YxA1x0ivU.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/2048/1MkIQD7mgiTUour9YxA1x0ivU.png, NSUnderlyingError=0x6000028e7a80 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2760] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “1MkIQD7mgiTUour9YxA1x0ivU.png” couldn’t be saved in the folder “4096” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/4096/1MkIQD7mgiTUour9YxA1x0ivU.png, NSUnderlyingError=0x6000028e7c30 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2760] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “0dyE4qNMuGpFmEzE6kOUxpu0JHA.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/512/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png, NSUnderlyingError=0x6000028df810 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2770] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “0dyE4qNMuGpFmEzE6kOUxpu0JHA.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/1024/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png, NSUnderlyingError=0x6000028d4bd0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2770] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “0dyE4qNMuGpFmEzE6kOUxpu0JHA.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/2048/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png, NSUnderlyingError=0x6000028e05d0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2780] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “0dyE4qNMuGpFmEzE6kOUxpu0JHA.png” couldn’t be saved in the folder “4096” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/4096/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png, NSUnderlyingError=0x6000028e1170 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2790] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “74zdSdeWCSR5TxxiqvmYbyrhmGI.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/512/74zdSdeWCSR5TxxiqvmYbyrhmGI.png, NSUnderlyingError=0x6000028e13b0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2790] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “74zdSdeWCSR5TxxiqvmYbyrhmGI.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/1024/74zdSdeWCSR5TxxiqvmYbyrhmGI.png, NSUnderlyingError=0x6000028d43c0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2800] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “74zdSdeWCSR5TxxiqvmYbyrhmGI.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/2048/74zdSdeWCSR5TxxiqvmYbyrhmGI.png, NSUnderlyingError=0x6000028d4750 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2800] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “74zdSdeWCSR5TxxiqvmYbyrhmGI.png” couldn’t be saved in the folder “4096” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/4096/74zdSdeWCSR5TxxiqvmYbyrhmGI.png, NSUnderlyingError=0x6000028d4c00 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2810] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “e55k6NekO85Fq6VMU2kznsa348.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/512/e55k6NekO85Fq6VMU2kznsa348.png, NSUnderlyingError=0x6000028d4390 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2810] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “e55k6NekO85Fq6VMU2kznsa348.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/1024/e55k6NekO85Fq6VMU2kznsa348.png, NSUnderlyingError=0x6000028d4000 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2820] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “e55k6NekO85Fq6VMU2kznsa348.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/2048/e55k6NekO85Fq6VMU2kznsa348.png, NSUnderlyingError=0x6000028d4b40 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2820] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “e55k6NekO85Fq6VMU2kznsa348.png” couldn’t be saved in the folder “4096” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/4096/e55k6NekO85Fq6VMU2kznsa348.png, NSUnderlyingError=0x6000028d4d20 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2830] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “zvvUSA1dJGyNrwzk6X8tQynNjE” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/512/zvvUSA1dJGyNrwzk6X8tQynNjE, NSUnderlyingError=0x6000028d5680 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2830] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “zvvUSA1dJGyNrwzk6X8tQynNjE” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/1024/zvvUSA1dJGyNrwzk6X8tQynNjE, NSUnderlyingError=0x6000028d57a0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2830] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “zvvUSA1dJGyNrwzk6X8tQynNjE” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/2048/zvvUSA1dJGyNrwzk6X8tQynNjE, NSUnderlyingError=0x6000028d56e0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2840] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “zvvUSA1dJGyNrwzk6X8tQynNjE” couldn’t be saved in the folder “4096” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/4096/zvvUSA1dJGyNrwzk6X8tQynNjE, NSUnderlyingError=0x6000028d59e0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2840] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “yX5sikHzhmioKc4BPCtOWg0LUjs.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/512/yX5sikHzhmioKc4BPCtOWg0LUjs.png, NSUnderlyingError=0x6000028d5c50 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2850] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “yX5sikHzhmioKc4BPCtOWg0LUjs.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/1024/yX5sikHzhmioKc4BPCtOWg0LUjs.png, NSUnderlyingError=0x6000028d5e00 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2850] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “yX5sikHzhmioKc4BPCtOWg0LUjs.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/2048/yX5sikHzhmioKc4BPCtOWg0LUjs.png, NSUnderlyingError=0x6000028d5d40 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2850] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “yX5sikHzhmioKc4BPCtOWg0LUjs.png” couldn’t be saved in the folder “4096” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/4096/yX5sikHzhmioKc4BPCtOWg0LUjs.png, NSUnderlyingError=0x6000028d5fe0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2860] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “3CaZ45tzF0YKdWQzEWDUaxotk.jpg” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/512/3CaZ45tzF0YKdWQzEWDUaxotk.jpg, NSUnderlyingError=0x6000028d6220 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2870] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “3CaZ45tzF0YKdWQzEWDUaxotk.jpg” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/1024/3CaZ45tzF0YKdWQzEWDUaxotk.jpg, NSUnderlyingError=0x6000028d63a0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2870] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “3CaZ45tzF0YKdWQzEWDUaxotk.jpg” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/2048/3CaZ45tzF0YKdWQzEWDUaxotk.jpg, NSUnderlyingError=0x6000028d6460 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2870] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “3CaZ45tzF0YKdWQzEWDUaxotk.jpg” couldn’t be saved in the folder “4096” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/4096/3CaZ45tzF0YKdWQzEWDUaxotk.jpg, NSUnderlyingError=0x6000028d6760 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2880] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “j668Bbck631wAXKMbtwZM9p5kZk.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/512/j668Bbck631wAXKMbtwZM9p5kZk.png, NSUnderlyingError=0x6000028d6910 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2890] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “j668Bbck631wAXKMbtwZM9p5kZk.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/1024/j668Bbck631wAXKMbtwZM9p5kZk.png, NSUnderlyingError=0x6000028d6ac0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2890] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “j668Bbck631wAXKMbtwZM9p5kZk.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/2048/j668Bbck631wAXKMbtwZM9p5kZk.png, NSUnderlyingError=0x6000028d6a00 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2900] - INFO - Couldn’t create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “j668Bbck631wAXKMbtwZM9p5kZk.png” couldn’t be saved in the folder “4096” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.cache/images/4096/j668Bbck631wAXKMbtwZM9p5kZk.png, NSUnderlyingError=0x6000028d6ca0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2019-02-24 16:04:01.2900] - INFO - Done reading
+[2019-02-24 16:04:01.2910] - INFO - Marking changed: false
+[2019-02-24 16:04:05.8120] - INFO - GET 200 /design/document.json 0 B (11ms)
+[2019-02-24 16:04:12.2970] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (101ms)
+[2019-02-24 16:04:12.9350] - WARNING - Project might be incompatible with this Framer X version (0.10.6 is not listed as compatible version in "^0.9.7")
+
+Try selecting the Built-In Framer Library version from the File menu.
+[2019-02-24 16:04:18.2900] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (2ms)
+[2019-02-24 16:04:18.3970] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (5ms)
+[2019-02-24 16:04:18.6170] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (5ms)
+[2019-02-24 16:04:18.7220] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (1ms)
+[2019-02-24 16:04:18.7600] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (1ms)
+[2019-02-24 16:04:18.8650] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (1ms)
+[2019-02-24 16:04:18.9910] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (4ms)
+[2019-02-24 16:04:19.0300] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (3ms)
+[2019-02-24 16:04:19.0690] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (6ms)
+[2019-02-24 16:04:43.8310] - INFO - GET 200 /preview/ 0 B (9ms)
+[2019-02-24 16:04:43.8990] - INFO - GET 200 /preview/styles/Draft.css 0 B (9ms)
+[2019-02-24 16:04:43.9010] - INFO - GET 200 /preview/styles/style.css 0 B (11ms)
+[2019-02-24 16:04:43.9010] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (8ms)
+[2019-02-24 16:04:43.9160] - INFO - GET 200 /preview/preview.js 0 B (8ms)
+[2019-02-24 16:04:43.9530] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (9ms)
+[2019-02-24 16:04:43.9790] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (10ms)
+[2019-02-24 16:04:44.0540] - INFO - GET 200 /preview/ 0 B (8ms)
+[2019-02-24 16:04:44.1990] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (5ms)
+[2019-02-24 16:04:44.2160] - INFO - GET 200 /preview/styles/style.css 0 B (6ms)
+[2019-02-24 16:04:44.2180] - INFO - GET 200 /preview/styles/Draft.css 0 B (7ms)
+[2019-02-24 16:04:44.2280] - INFO - GET 200 /preview/preview.js 0 B (5ms)
+[2019-02-24 16:04:44.2450] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (5ms)
+[2019-02-24 16:04:44.2870] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (14ms)
+[2019-02-24 16:04:44.6780] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2019-02-24 16:04:45.1150] - INFO - GET 404 /favicon.ico 150 B (3ms)
+[2019-02-24 16:04:46.0550] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (5ms)
+[2019-02-24 16:04:46.0550] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (5ms)
+[2019-02-24 16:04:46.0560] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (6ms)
+[2019-02-24 16:04:46.0650] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (6ms)
+[2019-02-24 16:04:46.0760] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (5ms)
+[2019-02-24 16:04:46.0890] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (8ms)
+[2019-02-24 16:04:46.0910] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (5ms)
+[2019-02-24 16:04:46.1040] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (16ms)
+[2019-02-24 16:04:46.1040] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (7ms)
+[2019-02-24 16:04:46.5890] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (5ms)
+[2019-02-24 16:05:02.0130] - INFO - Backing up to /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.backups/2019-02-24 16.05.02.zip
+[2019-02-24 16:05:20.0220] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (5ms)
+[2019-02-24 16:05:56.5080] - INFO - Marking changed: false
+[2019-02-24 16:05:58.5390] - WARNING - "@framer/ruucm.html-video#framer@^0.9.7" doesn't satisfy found match of "framer@0.10.6"
+[2019-02-24 16:05:58.5390] - WARNING - "@framer/ruucm.ruucm-fonts#framer@^0.9.7" doesn't satisfy found match of "framer@0.10.6"
+[2019-02-24 16:05:59.5150] - INFO - GET 200 /preview/ 0 B (5ms)
+[2019-02-24 16:05:59.5800] - INFO - GET 200 /preview/ 0 B (2ms)
+[2019-02-24 16:05:59.8030] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (2ms)
+[2019-02-24 16:05:59.8140] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (5ms)
+[2019-02-24 16:05:59.8180] - INFO - GET 200 /preview/styles/Draft.css 0 B (2ms)
+[2019-02-24 16:05:59.8610] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (2ms)
+[2019-02-24 16:05:59.8790] - INFO - GET 200 /preview/styles/style.css 0 B (1ms)
+[2019-02-24 16:05:59.8910] - INFO - GET 200 /preview/preview.js 0 B (1ms)
+[2019-02-24 16:05:59.9010] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (2ms)
+[2019-02-24 16:06:00.5950] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (2ms)
+[2019-02-24 16:06:00.9780] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (3ms)
+[2019-02-24 16:06:02.6700] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (3ms)
+[2019-02-24 16:06:02.6750] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (4ms)
+[2019-02-24 16:06:02.6770] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (5ms)
+[2019-02-24 16:06:02.6790] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (3ms)
+[2019-02-24 16:06:02.6880] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (4ms)
+[2019-02-24 16:06:02.6990] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (2ms)
+[2019-02-24 16:06:02.7020] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (4ms)
+[2019-02-24 16:06:02.7020] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (2ms)
+[2019-02-24 16:06:02.7310] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (2ms)
+[2019-02-24 16:06:02.9360] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (4ms)
+[2019-02-24 16:06:12.0270] - INFO - GET 200 /preview/ 0 B (2ms)
+[2019-02-24 16:06:12.3650] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (1ms)
+[2019-02-24 16:06:12.4140] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (1ms)
+[2019-02-24 16:06:12.4420] - INFO - GET 200 /preview/styles/Draft.css 0 B (2ms)
+[2019-02-24 16:06:12.4530] - INFO - GET 200 /preview/styles/style.css 0 B (3ms)
+[2019-02-24 16:06:12.4990] - INFO - GET 200 /preview/preview.js 0 B (12ms)
+[2019-02-24 16:06:12.5010] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2019-02-24 16:06:13.5300] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2019-02-24 16:06:15.6400] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (3ms)
+[2019-02-24 16:06:15.6480] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (4ms)
+[2019-02-24 16:06:15.6560] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (4ms)
+[2019-02-24 16:06:15.6590] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (3ms)
+[2019-02-24 16:06:15.6700] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (3ms)
+[2019-02-24 16:06:15.6740] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (3ms)
+[2019-02-24 16:06:15.6780] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (3ms)
+[2019-02-24 16:06:15.6790] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (4ms)
+[2019-02-24 16:06:15.7050] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (1ms)
+[2019-02-24 16:06:16.1050] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (4ms)
+[2019-02-24 16:06:23.1780] - INFO - GET 200 /preview/images/cursors/touch-active@2x.png 7.79 kB (1ms)
+[2019-02-24 16:06:42.9750] - INFO - GET 200 /preview/ 0 B (2ms)
+[2019-02-24 16:06:43.3250] - INFO - GET 200 /preview/scripts/react/react.development.js 0 B (4ms)
+[2019-02-24 16:06:43.3720] - INFO - GET 200 /preview/scripts/react-dom/react-dom.development.js 0 B (2ms)
+[2019-02-24 16:06:43.3950] - INFO - GET 200 /preview/styles/Draft.css 0 B (1ms)
+[2019-02-24 16:06:43.4090] - INFO - GET 200 /preview/styles/style.css 0 B (4ms)
+[2019-02-24 16:06:43.4200] - INFO - GET 200 /preview/preview.js 0 B (2ms)
+[2019-02-24 16:06:43.4480] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (4ms)
+[2019-02-24 16:06:45.0860] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (2ms)
+[2019-02-24 16:06:46.7580] - INFO - GET 200 /design/images/3CaZ45tzF0YKdWQzEWDUaxotk.jpg 145 kB (8ms)
+[2019-02-24 16:06:46.7580] - INFO - GET 200 /design/images/qtZX2FT5hRkE0S29d5LXG02Fk.jpg 97.4 kB (9ms)
+[2019-02-24 16:06:46.7590] - INFO - GET 200 /design/images/e55k6NekO85Fq6VMU2kznsa348.png 88.4 kB (6ms)
+[2019-02-24 16:06:46.7660] - INFO - GET 200 /design/images/j668Bbck631wAXKMbtwZM9p5kZk.png 149 kB (8ms)
+[2019-02-24 16:06:46.7720] - INFO - GET 200 /design/images/zvvUSA1dJGyNrwzk6X8tQynNjE 397 kB (6ms)
+[2019-02-24 16:06:46.7780] - INFO - GET 200 /design/images/74zdSdeWCSR5TxxiqvmYbyrhmGI.png 58.6 kB (7ms)
+[2019-02-24 16:06:46.7820] - INFO - GET 200 /design/images/1MkIQD7mgiTUour9YxA1x0ivU.png 224 kB (7ms)
+[2019-02-24 16:06:46.7880] - INFO - GET 200 /design/images/0dyE4qNMuGpFmEzE6kOUxpu0JHA.png 447 kB (8ms)
+[2019-02-24 16:06:46.7910] - INFO - GET 200 /preview/images/cursors/touch@2x.png 8.38 kB (1ms)
+[2019-02-24 16:06:46.9770] - INFO - GET 200 /design/images/yX5sikHzhmioKc4BPCtOWg0LUjs.png 1.5 MB (6ms)
+[2019-02-24 16:06:57.1440] - INFO - Marking changed: false
+[2019-02-24 16:07:02.4970] - INFO - writing standalone output /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/index.html
+[2019-02-24 16:07:02.5050] - ERROR - unable to find resource file: ../../Library/framer.js
+[2019-02-24 16:07:02.8780] - INFO - Backing up to /Users/mac/Documents/Framer X/workshop/keynote-workshop.framerfx/.backups/2019-02-24 16.07.02.zip
+[2019-02-24 16:07:03.0550] - INFO - { Error: ENOTEMPTY: directory not empty, rmdir '/Users/mac/A Carver/MAMP/Frame/code/'
+[2019-02-24 16:07:03.0550] - INFO -     at Object.rmdirSync (fs.js:677:3)
+[2019-02-24 16:07:03.0550] - INFO -     at directories.forEach.dir (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:184:20)
+[2019-02-24 16:07:03.0550] - INFO -     at Array.forEach (<anonymous>)
+[2019-02-24 16:07:03.0550] - INFO -     at Project.<anonymous> (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:181:25)
+[2019-02-24 16:07:03.0550] - INFO -     at Generator.next (<anonymous>)
+[2019-02-24 16:07:03.0550] - INFO -     at fulfilled (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:4:58)
+[2019-02-24 16:07:03.0560] - INFO -   errno: -66,
+[2019-02-24 16:07:03.0560] - INFO -   syscall: 'rmdir',
+[2019-02-24 16:07:03.0560] - INFO -   code: 'ENOTEMPTY',
+[2019-02-24 16:07:03.0560] - INFO -   path: '/Users/mac/A Carver/MAMP/Frame/code/' }
